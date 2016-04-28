@@ -1,0 +1,6 @@
+window.appSettings = {
+  server: 'http://localhost:9200/event-report/',
+  baseApi: '',
+
+  env: 'development',
+}

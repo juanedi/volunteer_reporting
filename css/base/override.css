@@ -1,0 +1,67 @@
+body {
+  font-size: 14px;
+}
+a{
+  text-decoration: none;
+  color: #009901;
+}
+
+md-list-item h3{
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: .010em;
+  margin: 0;
+  line-height: 1.2em;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+md-list-item h4{
+  font-size: 14px;
+  letter-spacing: .010em;
+  margin: 3px 0 1px;
+  font-weight: 400;
+  line-height: 1.2em;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+md-tabs.operator-profile-tabs md-tabs-wrapper{
+  position: fixed;
+  display: block;
+  bottom: 0;
+  left: 0px;
+  background-color: white !important;
+  z-index: 100;
+  width: 100%;
+}
+
+.angular-google-map-container {
+  height: 90vh;
+}
+
+.search-ticket-datepicker .md-datepicker-input{
+  font-size: 18px;
+}
+
+form md-datepicker {
+    position: relative;
+    left: -16px;
+}
+
+form md-datepicker .md-datepicker-input-container{
+  margin-left: 0;
+}
+form md-datepicker .md-datepicker-button.md-icon-button {
+  margin-right: 0;
+}
+
+md-input-container {
+  margin: 10px 0px !important;
+}
+
+.md-inline-form md-checkbox {
+    margin: 10px 0 8px !important;
+}

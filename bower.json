@@ -1,0 +1,30 @@
+{
+  "name": "reporting_module_mobile",
+  "authors": [
+    "kimsanlim <kimsan@camtasia-tech.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-material": "~1.0.1",
+    "angular-ui-router": "~0.2.15",
+    "international-phone-number": "~0.0.16",
+    "angular-material-icons": "^0.6.0",
+    "intl-tel-input": "~5.1.0",
+    "angular-easyfb": "^1.4.1",
+    "angular-moment": "^0.10.3",
+    "moment": "^2.11.2",
+    "angular-slick": "^0.2.1",
+    "angular-disable-all": "^0.0.2"
+  }
+}

@@ -1,0 +1,88 @@
+.white-text{
+  color: white !important;
+}
+
+.bold-text{
+  font-weight: bold;
+}
+
+.validation-text{
+  color: red;
+}
+
+.fbIcon{
+  margin-right: 15px;
+}
+
+.error{
+  color: #B12A2A;
+  font-size: 90%;
+}
+
+.dark-text{
+  color: black !important;
+}
+
+.toolbar-back-button{
+  margin-left: -10px;
+  margin-right: 15px;
+  margin-top: -12px;
+}
+
+.loading-process{
+  height: 100%;
+}
+
+.success-text{
+  color: green;
+}
+
+.av-list-item{
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  width: 40px;
+  height: 40px;
+}
+
+.toolbar-title{
+  font-size: 15px;
+}
+
+.notice-text{
+  color: blue;
+}
+
+.toolbar-background{
+  background: #03A9F4;
+  position:fixed;
+  top:0;
+}
+
+.grey-color{
+  color: grey;
+}
+
+.gold-color{
+  color: gold;
+}
+
+.text-box-style, .select-box-style{
+  font-size: 18px !important;
+}
+
+.button-style{
+  height: 50px;
+  font-size: 15px;
+}
+
+.mapCanvas{
+  width:100%;
+  height:90vh;
+}
+
+.required-label {
+  font-size: 80%;
+  font-weight: bold;
+  color: red;
+}

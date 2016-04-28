@@ -1,0 +1,50 @@
+.introduction-body{
+  height: 93vh;
+}
+
+.introduction-slide-container{
+  width: 92%;
+  height: 92%;
+  padding-left:5%;
+}
+
+.introduction-card{
+  margin: 0 auto !important;
+  text-align: center;
+  padding: 0px;
+  padding-top: 10%;
+}
+
+.introduction-icon{
+  width: 80%;
+  margin: 0 auto;
+}
+
+.guaranteed-icon{
+  width: 110%;
+}
+
+.introduction-benefit{
+  margin-top: 30px;
+  font-size: 140%;
+  text-align: center
+}
+
+.introduction-button{
+  font-size: 120%;
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.introduction-sign-in-link{
+  color: #009343;
+}
+
+.introduction-button-icon{
+  margin-top: -13px;
+}
+
+.introduction-body md-card.md-default-theme, .introduction-body md-card {
+  background-color: unset !important;
+}
